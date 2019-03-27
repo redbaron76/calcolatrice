@@ -8,7 +8,7 @@ Installazione
 ---
 `cd && git clone https://github.com/redbaron76/calcolatrice.git`
 
-`npm install`
+`cd calcolatrice && npm install`
 
 
 
